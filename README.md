@@ -52,7 +52,8 @@ Programming Language: Python
 File Name: main.py
 Repository Name: student-result-system
 
-4.
+4.python code
+
 # Student Result System
 
 print("STUDENT RESULT SYSTEM")
